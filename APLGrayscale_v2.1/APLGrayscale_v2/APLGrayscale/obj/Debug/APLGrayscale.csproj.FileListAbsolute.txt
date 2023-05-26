@@ -1,0 +1,91 @@
+E:\Studia\APL\APLGrayscale\obj\Debug\APLGrayscale.csproj.AssemblyReference.cache
+E:\Studia\APL\APLGrayscale\obj\Debug\APLGrayscale.Form1.resources
+E:\Studia\APL\APLGrayscale\obj\Debug\APLGrayscale.Properties.Resources.resources
+E:\Studia\APL\APLGrayscale\obj\Debug\APLGrayscale.csproj.GenerateResource.cache
+E:\Studia\APL\APLGrayscale\obj\Debug\APLGrayscale.csproj.CoreCompileInputs.cache
+E:\Studia\APL\APLGrayscale\bin\Debug\APLGrayscale.exe.config
+E:\Studia\APL\APLGrayscale\bin\Debug\APLGrayscale.exe
+E:\Studia\APL\APLGrayscale\bin\Debug\APLGrayscale.pdb
+E:\Studia\APL\APLGrayscale\obj\Debug\APLGrayscale.exe
+E:\Studia\APL\APLGrayscale\obj\Debug\APLGrayscale.pdb
+C:\Users\david\Desktop\ColorIsolationASMProject-main C#\ColorIsolationASMProject-main\APLGrayscale\x64\Debug\APLGrayscale.exe.config
+C:\Users\david\Desktop\ColorIsolationASMProject-main C#\ColorIsolationASMProject-main\APLGrayscale\x64\Debug\APLGrayscale.exe
+C:\Users\david\Desktop\ColorIsolationASMProject-main C#\ColorIsolationASMProject-main\APLGrayscale\x64\Debug\APLGrayscale.pdb
+C:\Users\david\Desktop\ColorIsolationASMProject-main C#\ColorIsolationASMProject-main\APLGrayscale\obj\Debug\APLGrayscale.Form1.resources
+C:\Users\david\Desktop\ColorIsolationASMProject-main C#\ColorIsolationASMProject-main\APLGrayscale\obj\Debug\APLGrayscale.Properties.Resources.resources
+C:\Users\david\Desktop\ColorIsolationASMProject-main C#\ColorIsolationASMProject-main\APLGrayscale\obj\Debug\APLGrayscale.csproj.GenerateResource.cache
+C:\Users\david\Desktop\ColorIsolationASMProject-main C#\ColorIsolationASMProject-main\APLGrayscale\obj\Debug\APLGrayscale.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\ColorIsolationASMProject-main C#\ColorIsolationASMProject-main\APLGrayscale\obj\Debug\APLGrayscale.exe
+C:\Users\david\Desktop\ColorIsolationASMProject-main C#\ColorIsolationASMProject-main\APLGrayscale\obj\Debug\APLGrayscale.pdb
+E:\Studia\APL\APLGrayscale_v1\APLGrayscale\x64\Debug\APLGrayscale.exe.config
+E:\Studia\APL\APLGrayscale_v1\APLGrayscale\x64\Debug\APLGrayscale.exe
+E:\Studia\APL\APLGrayscale_v1\APLGrayscale\x64\Debug\APLGrayscale.pdb
+E:\Studia\APL\APLGrayscale_v1\APLGrayscale\obj\Debug\APLGrayscale.csproj.AssemblyReference.cache
+E:\Studia\APL\APLGrayscale_v1\APLGrayscale\obj\Debug\APLGrayscale.Form1.resources
+E:\Studia\APL\APLGrayscale_v1\APLGrayscale\obj\Debug\APLGrayscale.Properties.Resources.resources
+E:\Studia\APL\APLGrayscale_v1\APLGrayscale\obj\Debug\APLGrayscale.csproj.GenerateResource.cache
+E:\Studia\APL\APLGrayscale_v1\APLGrayscale\obj\Debug\APLGrayscale.csproj.CoreCompileInputs.cache
+E:\Studia\APL\APLGrayscale_v1\APLGrayscale\obj\Debug\APLGrayscale.exe
+E:\Studia\APL\APLGrayscale_v1\APLGrayscale\obj\Debug\APLGrayscale.pdb
+C:\Users\david\Documents\GitHub\ColorIsolationASMProject\APLGrayscale_v1\APLGrayscale\obj\Debug\APLGrayscale.csproj.AssemblyReference.cache
+C:\Users\david\Documents\GitHub\ColorIsolationASMProject\APLGrayscale_v1\APLGrayscale\obj\Debug\AsmProxy.resources
+C:\Users\david\Documents\GitHub\ColorIsolationASMProject\APLGrayscale_v1\APLGrayscale\obj\Debug\APLGrayscale.Properties.Resources.resources
+C:\Users\david\Documents\GitHub\ColorIsolationASMProject\APLGrayscale_v1\APLGrayscale\obj\Debug\APLGrayscale.csproj.GenerateResource.cache
+C:\Users\david\Documents\GitHub\ColorIsolationASMProject\APLGrayscale_v1\APLGrayscale\obj\Debug\APLGrayscale.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\GitHub\ColorIsolationASMProject\APLGrayscale_v1\APLGrayscale\obj\Debug\APLGrayscale.exe
+C:\Users\david\Documents\GitHub\ColorIsolationASMProject\APLGrayscale_v1\APLGrayscale\obj\Debug\APLGrayscale.pdb
+C:\Users\david\Documents\GitHub\ColorIsolationASMProject\APLGrayscale_v1\APLGrayscale\x64\Debug\APLGrayscale.exe.config
+C:\Users\david\Documents\GitHub\ColorIsolationASMProject\APLGrayscale_v1\APLGrayscale\x64\Debug\APLGrayscale.exe
+C:\Users\david\Documents\GitHub\ColorIsolationASMProject\APLGrayscale_v1\APLGrayscale\x64\Debug\APLGrayscale.pdb
+C:\Users\dzeyd\OneDrive\Documents\GitHub\ColorIsolationASMProject\APLGrayscale_v2\APLGrayscale\x64\Debug\APLGrayscale.exe.config
+C:\Users\dzeyd\OneDrive\Documents\GitHub\ColorIsolationASMProject\APLGrayscale_v2\APLGrayscale\x64\Debug\APLGrayscale.exe
+C:\Users\dzeyd\OneDrive\Documents\GitHub\ColorIsolationASMProject\APLGrayscale_v2\APLGrayscale\x64\Debug\APLGrayscale.pdb
+C:\Users\dzeyd\OneDrive\Documents\GitHub\ColorIsolationASMProject\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.csproj.AssemblyReference.cache
+C:\Users\dzeyd\OneDrive\Documents\GitHub\ColorIsolationASMProject\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.Form1.resources
+C:\Users\dzeyd\OneDrive\Documents\GitHub\ColorIsolationASMProject\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.Properties.Resources.resources
+C:\Users\dzeyd\OneDrive\Documents\GitHub\ColorIsolationASMProject\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.csproj.GenerateResource.cache
+C:\Users\dzeyd\OneDrive\Documents\GitHub\ColorIsolationASMProject\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.csproj.CoreCompileInputs.cache
+C:\Users\dzeyd\OneDrive\Documents\GitHub\ColorIsolationASMProject\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.exe
+C:\Users\dzeyd\OneDrive\Documents\GitHub\ColorIsolationASMProject\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.pdb
+C:\Users\marta\Desktop\APLProject\ColorIsolationASMProject\APLGrayscale_v2\APLGrayscale\x64\Debug\APLGrayscale.exe.config
+C:\Users\marta\Desktop\APLProject\ColorIsolationASMProject\APLGrayscale_v2\APLGrayscale\x64\Debug\APLGrayscale.exe
+C:\Users\marta\Desktop\APLProject\ColorIsolationASMProject\APLGrayscale_v2\APLGrayscale\x64\Debug\APLGrayscale.pdb
+C:\Users\marta\Desktop\APLProject\ColorIsolationASMProject\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.csproj.AssemblyReference.cache
+C:\Users\marta\Desktop\APLProject\ColorIsolationASMProject\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.csproj.SuggestedBindingRedirects.cache
+C:\Users\marta\Desktop\APLProject\ColorIsolationASMProject\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.Form1.resources
+C:\Users\marta\Desktop\APLProject\ColorIsolationASMProject\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.Properties.Resources.resources
+C:\Users\marta\Desktop\APLProject\ColorIsolationASMProject\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.csproj.GenerateResource.cache
+C:\Users\marta\Desktop\APLProject\ColorIsolationASMProject\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.csproj.CoreCompileInputs.cache
+C:\Users\marta\Desktop\APLProject\ColorIsolationASMProject\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.exe
+C:\Users\marta\Desktop\APLProject\ColorIsolationASMProject\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.pdb
+C:\Users\david\Desktop\JASol3\ColorIsolationASMProject-main\APLGrayscale_v2\APLGrayscale\x64\Debug\APLGrayscale.exe.config
+C:\Users\david\Desktop\JASol3\ColorIsolationASMProject-main\APLGrayscale_v2\APLGrayscale\x64\Debug\APLGrayscale.exe
+C:\Users\david\Desktop\JASol3\ColorIsolationASMProject-main\APLGrayscale_v2\APLGrayscale\x64\Debug\APLGrayscale.pdb
+C:\Users\david\Desktop\JASol3\ColorIsolationASMProject-main\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\JASol3\ColorIsolationASMProject-main\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.Form1.resources
+C:\Users\david\Desktop\JASol3\ColorIsolationASMProject-main\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.Properties.Resources.resources
+C:\Users\david\Desktop\JASol3\ColorIsolationASMProject-main\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.csproj.GenerateResource.cache
+C:\Users\david\Desktop\JASol3\ColorIsolationASMProject-main\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\JASol3\ColorIsolationASMProject-main\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.exe
+C:\Users\david\Desktop\JASol3\ColorIsolationASMProject-main\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.pdb
+C:\Users\david\Desktop\JASol3\APLGrayscale_v2\APLGrayscale\x64\Debug\APLGrayscale.exe.config
+C:\Users\david\Desktop\JASol3\APLGrayscale_v2\APLGrayscale\x64\Debug\APLGrayscale.exe
+C:\Users\david\Desktop\JASol3\APLGrayscale_v2\APLGrayscale\x64\Debug\APLGrayscale.pdb
+C:\Users\david\Desktop\JASol3\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\JASol3\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.Form1.resources
+C:\Users\david\Desktop\JASol3\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.Properties.Resources.resources
+C:\Users\david\Desktop\JASol3\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.csproj.GenerateResource.cache
+C:\Users\david\Desktop\JASol3\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\JASol3\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.exe
+C:\Users\david\Desktop\JASol3\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.pdb
+C:\Users\marta\Desktop\APL\ColorIsolationASMProject\APLGrayscale_v2.1\APLGrayscale_v2\APLGrayscale\x64\Debug\APLGrayscale.exe.config
+C:\Users\marta\Desktop\APL\ColorIsolationASMProject\APLGrayscale_v2.1\APLGrayscale_v2\APLGrayscale\x64\Debug\APLGrayscale.exe
+C:\Users\marta\Desktop\APL\ColorIsolationASMProject\APLGrayscale_v2.1\APLGrayscale_v2\APLGrayscale\x64\Debug\APLGrayscale.pdb
+C:\Users\marta\Desktop\APL\ColorIsolationASMProject\APLGrayscale_v2.1\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.csproj.AssemblyReference.cache
+C:\Users\marta\Desktop\APL\ColorIsolationASMProject\APLGrayscale_v2.1\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.csproj.SuggestedBindingRedirects.cache
+C:\Users\marta\Desktop\APL\ColorIsolationASMProject\APLGrayscale_v2.1\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.Form1.resources
+C:\Users\marta\Desktop\APL\ColorIsolationASMProject\APLGrayscale_v2.1\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.Properties.Resources.resources
+C:\Users\marta\Desktop\APL\ColorIsolationASMProject\APLGrayscale_v2.1\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.csproj.GenerateResource.cache
+C:\Users\marta\Desktop\APL\ColorIsolationASMProject\APLGrayscale_v2.1\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.csproj.CoreCompileInputs.cache
+C:\Users\marta\Desktop\APL\ColorIsolationASMProject\APLGrayscale_v2.1\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.exe
+C:\Users\marta\Desktop\APL\ColorIsolationASMProject\APLGrayscale_v2.1\APLGrayscale_v2\APLGrayscale\obj\Debug\APLGrayscale.pdb

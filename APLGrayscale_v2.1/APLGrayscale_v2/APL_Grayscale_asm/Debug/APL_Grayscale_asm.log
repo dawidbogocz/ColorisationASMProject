@@ -1,0 +1,34 @@
+﻿  Assembling AsmLibrary.asm...
+AsmLibrary.asm(1): error A2013: .MODEL must precede this directive
+AsmLibrary.asm(2): error A2034: must be in segment block
+AsmLibrary.asm(3): error A2034: must be in segment block
+AsmLibrary.asm(4): error A2034: must be in segment block
+AsmLibrary.asm(6): error A2013: .MODEL must precede this directive
+AsmLibrary.asm(7): error A2034: must be in segment block : ConvertToGrayscale
+AsmLibrary.asm(10): error A2034: must be in segment block
+AsmLibrary.asm(12): error A2034: must be in segment block
+AsmLibrary.asm(13): error A2034: must be in segment block
+AsmLibrary.asm(14): error A2034: must be in segment block
+AsmLibrary.asm(16): error A2034: must be in segment block
+AsmLibrary.asm(18): error A2034: must be in segment block
+AsmLibrary.asm(20): error A2034: must be in segment block
+AsmLibrary.asm(21): error A2034: must be in segment block
+AsmLibrary.asm(22): error A2034: must be in segment block
+AsmLibrary.asm(25): error A2034: must be in segment block
+AsmLibrary.asm(26): error A2034: must be in segment block
+AsmLibrary.asm(27): error A2034: must be in segment block
+AsmLibrary.asm(30): error A2034: must be in segment block
+AsmLibrary.asm(31): error A2034: must be in segment block
+AsmLibrary.asm(34): error A2034: must be in segment block
+AsmLibrary.asm(36): error A2034: must be in segment block
+AsmLibrary.asm(37): error A2034: must be in segment block
+AsmLibrary.asm(40): error A2034: must be in segment block
+AsmLibrary.asm(41): error A2034: must be in segment block
+AsmLibrary.asm(42): error A2034: must be in segment block
+AsmLibrary.asm(45): error A2034: must be in segment block
+AsmLibrary.asm(47): error A2034: must be in segment block
+AsmLibrary.asm(48): error A2034: must be in segment block
+AsmLibrary.asm(49): error A2034: must be in segment block
+AsmLibrary.asm(50): error A2034: must be in segment block
+AsmLibrary.asm(52): fatal error A1010: unmatched block nesting : ConvertToGrayscale
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\AsmLibrary.obj" /W3 /errorReport:prompt  /TaAsmLibrary.asm" exited with code 1.

@@ -1,0 +1,4 @@
+﻿  Assembling AsmLibrary.asm...
+     Creating library C:\Users\marta\Desktop\APL\ColorIsolationASMProject\APLGrayscale_v2.1\APLGrayscale_v2\APLGrayscale\x64\Debug\APL_Grayscale_asm.lib and object C:\Users\marta\Desktop\APL\ColorIsolationASMProject\APLGrayscale_v2.1\APLGrayscale_v2\APLGrayscale\x64\Debug\APL_Grayscale_asm.exp
+APL_Grayscale_asm.exp : warning LNK4070: /OUT:Asm.dll directive in .EXP differs from output filename 'C:\Users\marta\Desktop\APL\ColorIsolationASMProject\APLGrayscale_v2.1\APLGrayscale_v2\APLGrayscale\x64\Debug\APL_Grayscale_asm.dll'; ignoring directive
+  APL_Grayscale_asm.vcxproj -> C:\Users\marta\Desktop\APL\ColorIsolationASMProject\APLGrayscale_v2.1\APLGrayscale_v2\APLGrayscale\x64\Debug\APL_Grayscale_asm.dll
